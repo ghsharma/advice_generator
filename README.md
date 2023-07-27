@@ -76,10 +76,29 @@ Contributions are always welcome! If you'd like to contribute to the project, fo
 
 Please make sure to follow the project's coding conventions and ensure that your changes don't break any existing functionality.
 
-## License
+Sure! Below are the additional steps to guide users on how to start the React app, along with some other mandatory sections in the README:
 
-The Random Advice Generator is open-source and uses the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+## How to Start the React App
+
+To start the React app locally, you need to have Node.js and npm (Node Package Manager) installed on your machine. If you don't have them, you can download and install Node.js from the official website: [https://nodejs.org](https://nodejs.org).
+
+Once you have Node.js and npm installed, follow these steps:
+
+1. Open your terminal or command prompt.
+2. Navigate to the project directory (if you haven't done so already).
+3. Install the project dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+5. The app should now be running locally at `http://localhost:3000`, and you can access it using your web browser.
 
 ---
-
 Thank you for checking out the Random Advice Generator! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or contribute to the project. Enjoy generating random advice!
