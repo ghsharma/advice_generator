@@ -13,7 +13,7 @@
 
 ## Demo
 
-You can try out the live demo of the Random Advice Generator [here](https://your-demo-link.com).
+You can try out the live demo of the Random Advice Generator at https://ghsharma.github.io/advice_generator/ 
 
 ![ss](https://github.com/ghsharma/advice_generator/assets/95496933/4d0bed0c-af2e-4cf6-9733-248bd7307353)
 
